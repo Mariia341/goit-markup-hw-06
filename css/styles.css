@@ -292,7 +292,8 @@
 
       font-style: normal;
       line-height: 1.71;
-}
+      font-style: initial;
+     }
 
 /* about us */
 
